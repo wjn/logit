@@ -1,6 +1,6 @@
 {
   "name": "@nielsendigital/logit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript Logger",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
